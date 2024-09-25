@@ -12,6 +12,8 @@ second part is Model_train. this files allows you to train svm Model.
 
 ![Ekran görüntüsü 2024-09-25 112755](https://github.com/user-attachments/assets/7434f80a-5edb-42b6-a9ed-83156de45c23)
 
+The reason for the low gamma value is to increase generalization and prevent him from learning the details
+
 third part is the main program if you run this file, you will start detecting the car parking area
 
 ![Ekran görüntüsü 2024-09-25 114425](https://github.com/user-attachments/assets/ea69e54b-d3fc-4b37-a383-0a47b6a6f30a)
