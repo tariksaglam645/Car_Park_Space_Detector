@@ -1,7 +1,7 @@
 # Car_Park_Space_Detector
 detection of empty or occupied parking spaces
 
-You can access the model training set from this link: https://drive.google.com/drive/folders/1M_ceRlO_qHX2LoP6SBo-HTk8vQvry88U?usp=drive_link
+You can access the model training set from this link: [https://drive.google.com/drive/folders/1M_ceRlO_qHX2LoP6SBo-HTk8vQvry88U?usp=drive_link](https://drive.google.com/drive/folders/1M_ceRlO_qHX2LoP6SBo-HTk8vQvry88U?usp=sharing)
 
 this program consists of three main parts the first part collect_train_data this file allows you to collect training data. right click saves to empty file path, left click saves to full file path.
 
